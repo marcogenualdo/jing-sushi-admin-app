@@ -1,0 +1,13 @@
+{
+  "name": "admin-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcogenualdo/jing-sushi-admin-app",
+  "author": "marcogenualdo@live.it",
+  "license": "none",
+  "private": false,
+  "dependencies": {
+    "@google-cloud/firestore": "^4.9.6"
+  },
+  "devDependencies": {}
+}

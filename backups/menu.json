@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Riso",
+    "image": null,
+    "dishes": [
+      { "code": "C36", "name": "Riso bianco", "price": 1.5 },
+      { "code": "C37", "name": "Riso con verdure", "price": 2.5 },
+      { "code": "C38", "name": "Riso alla cantonese", "price": 3.0 },
+      { "code": "C39", "name": "Riso con gamberi*", "price": 3.5 },
+      { "code": "C40", "name": "Riso saltato al salmone", "price": 5.0 },
+      { "code": "C41", "name": "Riso al curry", "price": 3.0 },
+      { "code": "C42", "name": "Riso con ananas e pinoli", "price": 4.0 },
+      {
+        "code": "C43",
+        "name": "Riso thailandese con frutti di mare",
+        "price": 5.5
+      },
+      { "code": "C45", "name": "Riso nero con frutti di mare", "price": 5.0 },
+      { "code": "C46", "name": "Riso nero con pollo e verdure", "price": 4.5 },
+      {
+        "code": "C47",
+        "name": "Riso nero con gamberi e verdure",
+        "price": 4.5
+      },
+      { "code": "C48", "name": "Riso con pollo", "price": 3.8 },
+      { "code": "C49", "name": "Riso nero con verdure", "price": 4.0 }
+    ]
+  },
+  {
+    "name": "Gnocchi",
+    "image": null,
+    "dishes": [
+      {
+        "code": "C50",
+        "name": "Gnocchi cinesi con gamberi e verdure*",
+        "price": 3.8
+      },
+      {
+        "code": "C51",
+        "name": "Gnocchi cinesi con frutti di mare",
+        "price": 4.8
+      },
+      { "code": "C52", "name": "Gnocchi cinesi con pollo", "price": 3.5 },
+      { "code": "C53", "name": "Gnocchi cinesi con verdure", "price": 3.0 },
+      { "code": "C55", "name": "Gnocchi cinesi con manzo", "price": 3.8 }
+    ]
+  },
+  {
+    "name": "Pasta",
+    "image": null,
+    "dishes": [
+      { "code": "C56", "name": "Spaghettini con verdure miste", "price": 3.2 },
+      { "code": "C57", "name": "Spaghettini con pollo", "price": 3.5 },
+      { "code": "C58", "name": "Spaghettini con gamberi*", "price": 4.6 },
+      { "code": "C59", "name": "Spaghettini con frutti di mare", "price": 5.0 },
+      { "code": "C60", "name": "Spaghettini con manzo", "price": 3.8 },
+      {
+        "code": "C61",
+        "name": "Spaghetti di grano saraceno con frutti di mare",
+        "price": 4.8
+      },
+      {
+        "code": "C62",
+        "name": "Spaghetti di grano saraceno con gamberi*",
+        "price": 4.6
+      },
+      {
+        "code": "C63",
+        "name": "Spaghetti di grano saraceno con pollo",
+        "price": 4.5
+      },
+      {
+        "code": "C64",
+        "name": "Spaghetti di grano saraceno con verdure",
+        "price": 4.2
+      },
+      {
+        "code": "C65",
+        "name": "Spaghetti di riso con gamberetti*",
+        "price": 3.6
+      },
+      {
+        "code": "C66",
+        "name": "Spaghetti di riso con verdure miste",
+        "price": 3.0
+      },
+      {
+        "code": "C67",
+        "name": "Spaghetti di riso al curry con manzo",
+        "price": 3.5
+      },
+      {
+        "code": "C68",
+        "name": "Spaghetti di riso con carne saltati",
+        "price": 3.5
+      },
+      {
+        "code": "C69",
+        "name": "Spaghetti di soia con verdure miste",
+        "price": 3.2
+      },
+      { "code": "C70", "name": "Spaghetti di soia al curry", "price": 3.0 },
+      { "code": "C71", "name": "Spaghetti di soia con gamberi*", "price": 3.8 },
+      {
+        "code": "C72",
+        "name": "Spaghetti di soia con carne e sesamo",
+        "price": 3.5
+      },
+      {
+        "code": "C73",
+        "name": "Spaghetti di soia con carne piccante",
+        "price": 3.2
+      },
+      {
+        "code": "C75",
+        "name": "Spaghetti di soia con bambù e funghi",
+        "price": 3.0
+      }
+    ]
+  }
+]

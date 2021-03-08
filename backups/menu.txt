@@ -1,0 +1,48 @@
+Riso
+
+C36 Riso bianco € 1,50
+C37 Riso con verdure € 2,50
+C38 Riso alla cantonese € 3,00
+C39 Riso con gamberi* € 3,50
+C40 Riso saltato al salmone € 5,00
+C41 Riso al curry € 3,00
+C42 Riso con ananas e pinoli € 4,00
+C43 Riso thailandese con frutti di mare € 5,50
+C45 Riso nero con frutti di mare € 5,00
+C46 Riso nero con pollo e verdure € 4,50
+C47 Riso nero con gamberi e verdure € 4,50
+C48 Riso con pollo € 3,80
+C49 Riso nero con verdure € 4,00
+
+
+Gnocchi
+
+C50 Gnocchi cinesi con gamberi e verdure* € 3,80
+C51 Gnocchi cinesi con frutti di mare € 4,80
+C52 Gnocchi cinesi con pollo € 3,50
+C53 Gnocchi cinesi con verdure € 3,00
+C55 Gnocchi cinesi con manzo € 3,80
+
+
+Pasta
+
+C56 Spaghettini con verdure miste € 3,20
+C57 Spaghettini con pollo € 3,50
+C58 Spaghettini con gamberi* € 4,60
+C59 Spaghettini con frutti di mare € 5,00
+C60 Spaghettini con manzo € 3,80
+C61 Spaghetti di grano saraceno con frutti di mare € 4,80
+C62 Spaghetti di grano saraceno con gamberi* € 4,60
+C63 Spaghetti di grano saraceno con pollo € 4,50
+C64 Spaghetti di grano saraceno con verdure € 4,20
+C65 Spaghetti di riso con gamberetti* € 3,60
+C66 Spaghetti di riso con verdure miste € 3,00
+C67 Spaghetti di riso al curry con manzo € 3,50
+C68 Spaghetti di riso con carne saltati € 3,50
+C69 Spaghetti di soia con verdure miste € 3,20
+C70 Spaghetti di soia al curry € 3,00
+C71 Spaghetti di soia con gamberi* € 3,80
+C72 Spaghetti di soia con carne e sesamo € 3,50
+C73 Spaghetti di soia con carne piccante € 3,20
+C75 Spaghetti di soia con bambù e funghi € 3,00
+
