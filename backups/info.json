@@ -1,0 +1,82 @@
+{
+  "openingTimes": {
+    "0": {
+      "lunch": {
+        "from": { "hour": 11, "minute": 30 },
+        "to": { "hour": 14, "minute": 45 }
+      },
+      "dinner": {
+        "from": { "hour": 18, "minute": 30 },
+        "to": { "hour": 22, "minute": 30 }
+      }
+    },
+    "1": {
+      "lunch": {
+        "from": { "hour": 11, "minute": 30 },
+        "to": { "hour": 14, "minute": 45 }
+      },
+      "dinner": {
+        "from": { "hour": 18, "minute": 30 },
+        "to": { "hour": 22, "minute": 30 }
+      }
+    },
+    "2": {
+      "lunch": {
+        "from": { "hour": 11, "minute": 30 },
+        "to": { "hour": 14, "minute": 45 }
+      },
+      "dinner": {
+        "from": { "hour": 18, "minute": 30 },
+        "to": { "hour": 22, "minute": 30 }
+      }
+    },
+    "3": {
+      "lunch": {
+        "from": { "hour": 11, "minute": 30 },
+        "to": { "hour": 14, "minute": 45 }
+      },
+      "dinner": {
+        "from": { "hour": 18, "minute": 30 },
+        "to": { "hour": 22, "minute": 30 }
+      }
+    },
+    "4": {
+      "lunch": {
+        "from": { "hour": 11, "minute": 30 },
+        "to": { "hour": 14, "minute": 45 }
+      },
+      "dinner": {
+        "from": { "hour": 18, "minute": 30 },
+        "to": { "hour": 22, "minute": 30 }
+      }
+    },
+    "5": {
+      "lunch": {
+        "from": { "hour": 11, "minute": 30 },
+        "to": { "hour": 14, "minute": 45 }
+      },
+      "dinner": {
+        "from": { "hour": 18, "minute": 30 },
+        "to": { "hour": 22, "minute": 30 }
+      }
+    },
+    "6": {
+      "lunch": {
+        "from": { "hour": 11, "minute": 30 },
+        "to": { "hour": 14, "minute": 45 }
+      },
+      "dinner": {
+        "from": { "hour": 18, "minute": 30 },
+        "to": { "hour": 22, "minute": 30 }
+      }
+    }
+  },
+  "contacts": {
+    "facebookRef": "",
+    "email": "",
+    "phone": "065211189",
+    "mobile": "3203213683",
+    "address": "Via di Dragone 146/146a, 00126 Roma",
+    "addressRef": "https://goo.gl/maps/edek8nneQ9CcQLHr6"
+  }
+}
